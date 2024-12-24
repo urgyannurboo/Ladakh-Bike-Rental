@@ -133,9 +133,8 @@ $error="Something went wrong. Please try again";
         <div class="contact_detail">
               <?php
 $pagetype=$_GET['type'];
-$sql = "SELECT Address,EmailId,ContactNo from tblcontactusinfo";
-$query = $dbh -> prepare($sql);
-$query->bindParam(':pagetype',$pagetype,PDO::PARAM_STR);
+$sql = "SELECT Address, EmailId, ContactNo FROM tblcontactusinfo";
+$query = $dbh->prepare($sql);
 $query->execute();
 $results=$query->fetchAll(PDO::FETCH_OBJ);
 $cnt=1;
