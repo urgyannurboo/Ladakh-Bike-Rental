@@ -1,5 +1,4 @@
 # Ladakh-Bike-Rental
-# Bike Rental Management System
 
 ## Project Overview
 This is a Bike Rental Management System built using PHP and MySQL. Users can register, log in, and perform various actions related to bike rentals. This project is designed to run locally using the XAMPP server.
