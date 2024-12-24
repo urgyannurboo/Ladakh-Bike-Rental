@@ -12,7 +12,7 @@ This is a Bike Rental Management System built using PHP and MySQL. Users can reg
 ### Step 1: Download the Project
 1. Clone the repository or download the project as a ZIP file:
    ```bash
-   git clone <https://github.com/urgyannurboo/Ladakh-Bike-Rental>
+   git clone <[https://github.com/urgyannurboo/Ladakh-Bike-Rental](https://github.com/urgyannurboo/Ladakh-Bike-Rental.git)>
    ```
 2. Extract the downloaded ZIP file if necessary.
 
